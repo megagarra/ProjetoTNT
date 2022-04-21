@@ -1,2 +1,2 @@
 # ProjetoTNT
-Adiantando projeto do teachable em HTML, CSS, Javascript
+Adiantando projeto do teachable da SoulCode em HTML, CSS, Javascript
